@@ -14,7 +14,7 @@ In the learning of JavaScript I have followed the tuturial of Scrimba CEO and as
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://raovikrant82.github.io/Scrimba-Blackjack_game/)
 
 ## Authors
 
